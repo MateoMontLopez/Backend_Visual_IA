@@ -1,0 +1,8 @@
+Backend Visual IA
+
+Repositorio del codigo de reconocimiento de imagenes en desarrollo de Visual IA junto con el entrenamiento de la inteligencia artificial y los archivos correspondientes para ello
+
+- Red Neuronal
+- Entrenamiento
+- Imagenes de entrenamiento
+
